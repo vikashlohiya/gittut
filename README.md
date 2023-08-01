@@ -62,9 +62,4 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 </p>
 
 
-### 📫 How to reach me?
 
- - Visit my [Website](https://www.trainwithshubham.com) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/shubhamlondhe1996/) 👨🏻‍💻
- - Follow me on [Instagram](https://www.instagram.com/shubhamlondhe96/) ✨
- - Shoot Me an [Email](mailto:trainwithshubham@gmail.com) 💌
